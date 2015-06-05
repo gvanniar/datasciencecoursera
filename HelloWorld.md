@@ -1,3 +1,2 @@
-# datasciencecoursera
-DataScience John Hopkins Public Health
+# datasciencecoursera 
 ## This is a markdown file
